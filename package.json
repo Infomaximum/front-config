@@ -1,0 +1,32 @@
+{
+  "name": "@infomaximum/configs",
+  "version": "1.3.1",
+  "description": "Конфигурации библиотек для frontend разработки",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "author": "Infomaximum Frontend Team (https://infomaximum.com)",
+  "bugs": {
+    "url": "https://github.com/Infomaximum/front-configs/issues"
+  },
+  "homepage": "https://github.com/Infomaximum/front-configs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infomaximum/front-configs.git"
+  },
+  "files": [
+    "LICENSE",
+    "tsconfig.common.json",
+    "tsconfig.lib.json"
+  ],
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "9.5.0"
+  },
+  "keywords": [
+    "configs",
+    "frontend",
+    "tsconfig"
+  ]
+}

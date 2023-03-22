@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.common.json",
+  "compilerOptions": {
+    "declaration": true,
+    "incremental": false
+  },
+  "exclude": ["/node_modules/", "**/node_modules", "**/.*/"],
+  "include": ["src"]
+}
