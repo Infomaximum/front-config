@@ -22,7 +22,6 @@
     "importHelpers": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "importsNotUsedAsValues": "error",
     "noImplicitOverride": true,
     "incremental": true,
     "noEmit": true,
@@ -30,7 +29,8 @@
     "noErrorTruncation": false,
     "strict": true,
     "strictFunctionTypes": false,
-    "alwaysStrict": false
+    "alwaysStrict": false,
+    "verbatimModuleSyntax": true
   },
   "exclude": ["/node_modules/", "**/node_modules", "**/.*/"]
 }
