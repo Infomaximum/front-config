@@ -6,12 +6,12 @@
   "license": "Apache-2.0",
   "author": "Infomaximum Frontend Team (https://infomaximum.com)",
   "bugs": {
-    "url": "https://github.com/Infomaximum/front-configs/issues"
+    "url": "https://github.com/Infomaximum/front-config/issues"
   },
-  "homepage": "https://github.com/Infomaximum/front-configs#readme",
+  "homepage": "https://github.com/Infomaximum/front-config",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Infomaximum/front-configs.git"
+    "url": "git+https://github.com/Infomaximum/front-config.git"
   },
   "files": [
     "LICENSE",
