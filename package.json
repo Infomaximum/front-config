@@ -1,5 +1,5 @@
 {
-  "name": "@infomaximum/configs",
+  "name": "@infomaximum/config",
   "version": "2.0.0",
   "description": "Конфигурации библиотек для frontend разработки",
   "main": "index.js",
