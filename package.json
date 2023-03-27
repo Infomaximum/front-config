@@ -16,7 +16,8 @@
   "files": [
     "LICENSE",
     "tsconfig.common.json",
-    "tsconfig.lib.json"
+    "tsconfig.lib.json",
+    "prettierconfig.common.js"
   ],
   "scripts": {
     "release": "standard-version"
