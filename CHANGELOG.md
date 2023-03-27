@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/Infomaximum/front-config/compare/v2.1.0...v2.2.0) (2023-03-27)
+
+
+### Features
+
+* добавлен конфиг для prettier ([0fb1beb](https://github.com/Infomaximum/front-config/commit/0fb1bebad4f98eafe4e50c863097f592fc93a34b))
+
 ## [2.1.0](https://github.com/Infomaximum/front-config/compare/v2.0.0...v2.1.0) (2023-03-23)
 
 
