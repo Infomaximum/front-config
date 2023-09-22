@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2015",
-    "lib": ["DOM", "ES2021"],
+    "lib": ["DOM", "ESNext"],
     "jsx": "preserve",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
