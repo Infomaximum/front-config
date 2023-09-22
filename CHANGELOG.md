@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/Infomaximum/front-config/compare/v2.3.0...v2.4.0) (2023-09-22)
+
+
+### Features
+
+* добавлен ESNext в lib ([84fcd6f](https://github.com/Infomaximum/front-config/commit/84fcd6f5da0f308ef1dd3ea5c77196c87e82fd55))
+
 ## [2.3.0](https://github.com/Infomaximum/front-config/compare/v2.2.0...v2.3.0) (2023-03-27)
 
 
