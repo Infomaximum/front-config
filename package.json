@@ -1,6 +1,6 @@
 {
   "name": "@infomaximum/config",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Конфигурации библиотек для frontend разработки",
   "main": "index.js",
   "license": "Apache-2.0",

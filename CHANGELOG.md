@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.2](https://github.com/Infomaximum/front-config/compare/v2.5.1...v2.5.2) (2023-09-29)
+
+
+### Bug Fixes
+
+* убран include ([3f8c560](https://github.com/Infomaximum/front-config/commit/3f8c5609d0e4b35c4fb3e09d28f2c6bb7bc7ccdc))
+
 ### [2.5.1](https://github.com/Infomaximum/front-config/compare/v2.5.0...v2.5.1) (2023-09-29)
 
 
