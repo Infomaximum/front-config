@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/Infomaximum/front-config/compare/v2.5.0...v2.5.1) (2023-09-29)
+
+
+### Bug Fixes
+
+* исправлено имя папки с исходниками для tsc ([975211c](https://github.com/Infomaximum/front-config/commit/975211ca4692ff6db67bec4afdd727fc8f8fca04))
+
 ## [2.5.0](https://github.com/Infomaximum/front-config/compare/v2.4.0...v2.5.0) (2023-09-29)
 
 
