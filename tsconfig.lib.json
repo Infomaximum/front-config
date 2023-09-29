@@ -2,7 +2,6 @@
   "extends": "./tsconfig.common.json",
   "compilerOptions": {
     "target": "ES5",
-    "outDir": "./dist",
     "declaration": true,
     "incremental": false,
     "importHelpers": false
