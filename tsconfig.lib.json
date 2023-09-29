@@ -7,6 +7,5 @@
     "incremental": false,
     "importHelpers": false
   },
-  "exclude": ["/node_modules/", "**/node_modules", "**/.*/"],
-  "include": ["lib"]
+  "exclude": ["/node_modules/", "**/node_modules", "**/.*/"]
 }
