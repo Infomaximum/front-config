@@ -30,7 +30,8 @@
     "strict": true,
     "strictFunctionTypes": false,
     "alwaysStrict": false,
-    "verbatimModuleSyntax": true
+    "verbatimModuleSyntax": true,
+    "resolveJsonModule": true
   },
   "exclude": ["/node_modules/", "**/node_modules", "**/.*/"]
 }
