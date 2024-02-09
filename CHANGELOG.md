@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/Infomaximum/front-config/compare/v2.5.3...v2.6.0) (2024-02-09)
+
+
+### Features
+
+* добавлен флаг resolveJsonModule ([9d24a41](https://github.com/Infomaximum/front-config/commit/9d24a41e5951f6a176a4ac94bb117fda1494aded))
+
 ### [2.5.3](https://github.com/Infomaximum/front-config/compare/v2.5.2...v2.5.3) (2023-09-29)
 
 
