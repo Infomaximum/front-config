@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/Infomaximum/front-config/compare/v2.6.0...v2.7.0) (2024-08-26)
+
+
+### Features
+
+* target ES2018 ([6850e9a](https://github.com/Infomaximum/front-config/commit/6850e9a99ff2d59f1866a4586eb19d01a29d7fed))
+
 ## [2.6.0](https://github.com/Infomaximum/front-config/compare/v2.5.3...v2.6.0) (2024-02-09)
 
 
